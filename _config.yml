@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "nahyun-song"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "nahyun-song"
@@ -105,7 +105,7 @@ author:
   name             : "nahyun-song"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "  "
-  location         : "Somewhere"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
